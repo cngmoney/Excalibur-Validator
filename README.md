@@ -1,2 +1,1 @@
-# Excalibur-Validator
-Validator for a custom node
+Excalibur Validator
